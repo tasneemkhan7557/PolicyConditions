@@ -1,0 +1,28 @@
+
+Terms of Use for Status Saver
+
+Developer: Sam Summer
+Effective Date: November 21, 2026
+Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the Status Saver mobile application (the "Service") operated by Sam Summer ("us", "we", or "our").
+1. Acceptance of Terms
+By downloading, accessing, or using the Service, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not access the Service.
+2. Disclaimer of Affiliation
+Status Saver is an independent utility tool and is not affiliated with, associated with, authorized, endorsed by, or in any way officially connected with WhatsApp Inc., Meta Platforms, Inc., or any of their subsidiaries or affiliates. The official WhatsApp website can be found at whatsapp.com. The names "WhatsApp" as well as related names, marks, emblems, and images are registered trademarks of their respective owners.
+3. Copyright & User Responsibility
+• Respect Intellectual Property: The Service allows you to view and save media files (images and videos) locally stored on your device from status updates. You acknowledge that all downloaded media remains the sole intellectual property and copyright of its respective original creators or owners.
+• Permission Required: You agree not to re-upload, repost, distribute, or commercially use any saved images or videos without obtaining explicit permission from the original content owner.
+• No Liability for Misuse: Sam Summer is not responsible for any copyright infringement, intellectual property violations, or misuse of downloaded media committed by users of the Service. Any unauthorized downloading or re-uploading of content is the sole responsibility of the user.
+4. Acceptable Use
+You agree to use the Service only for personal, lawful purposes. You must not use the Service to violate the privacy rights of others or breach the Terms of Service of any third-party platform.
+5. Intellectual Property of the App
+The Service itself, including its original design, code, features, and functionality (excluding user-saved media), is and will remain the exclusive property of Sam Summer and its licensors.
+6. Advertisements and Third-Party Links
+The Service may display third-party advertisements (such as Google AdMob) or contain links to external websites that are not owned or controlled by Sam Summer. We assume no responsibility for the content, privacy policies, or practices of any third-party ad networks or websites.
+7. Termination
+We reserve the right to terminate or suspend your access to the Service immediately, without prior notice or liability, if you breach these Terms.
+8. Limitation of Liability
+In no event shall Sam Summer be liable for any indirect, incidental, special, or consequential damages resulting from your use of the Service, loss of saved files, or changes made by third-party applications that affect the functionality of the Service.
+9. Changes to Terms
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. Continued use of the Service after changes become effective constitutes acceptance of the new Terms.
+10. Contact Us
+If you have any questions about these Terms, please contact us by email at: oxoytpoint@gmail.com
